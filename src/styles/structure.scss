@@ -1,0 +1,11 @@
+.moran div {
+  transition: opacity 2s ease-in-out;
+}
+
+.off {
+  opacity: 0;
+}
+
+.on {
+  opacity: 1;
+}
